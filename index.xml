@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Pelosi</title>
     <link>https://marcopelosi.github.io/</link>
-      <atom:link href="https://marcopelosi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Marco Pelosi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://marcopelosi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Marco Pelosi</title>
-      <link>https://marcopelosi.github.io/</link>
-    </image>
-    
+    <description>Recent content on Marco Pelosi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://marcopelosi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marco Pelosi</title>
       <link>https://marcopelosi.github.io/author/marco-pelosi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://marcopelosi.github.io/author/marco-pelosi/</guid>
-      <description>&lt;p&gt;I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).&lt;/p&gt;
-&lt;p&gt;I work in the DG Economics, Statistics, and Research. I am interested in Corporate and Household Finance.&lt;/p&gt;
-&lt;p&gt;You can find my CV &lt;a href=&#34;files/CV_Jan2021.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>I am an Economist at the Bank of Italy and a PhD Candidate in Finance at the London School of Economics and Political Science (LSE).
+I work in the DG Economics, Statistics, and Research.</description>
     </item>
     
   </channel>
